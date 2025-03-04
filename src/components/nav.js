@@ -6,7 +6,7 @@ function NavBar() {
    <>
      <Navbar bg="dark" variant="dark">
        <Container>
-         <Navbar.Brand href="/mascotas">Adóptame</Navbar.Brand>
+         <Navbar.Brand href="/mascotas">Adóptame Trabajo hecho por Marcos España y Jairo Fierro</Navbar.Brand>
        </Container>
      </Navbar>
    </>
